@@ -1,0 +1,4 @@
+[plugin]
+description="Dokku plugin to enable Let's Encrypt HTTPS for cloned apps and review apps automatically. Add DOKKU_LETSENCRYPT_AUTO_ENABLE environment variable, set it to 1 and rebuild the app or clone it."
+version="0.1.0"
+[plugin.config]
